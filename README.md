@@ -1,4 +1,4 @@
-Hi , I'm Theodore 👋
+<h1>Hi , I'm Theodore 👋</h1>
 
 I'm actually learning software development at 42 Paris School.
 
